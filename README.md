@@ -1,10 +1,10 @@
-Med Booker Management System
+#Med Booker Management System
 The following is a project for a Med Booker Mangement Sytem that that models relationships between Patients, Doctors, and appointments with SQL database persistence.
 
-Project Overview
+#Project Overview
 Med Booker Management System is a Python-based application that models publishing relationships between Patients, Doctors, and Appointments using SQL database persistence. The system demonstrates:
 
-Features
+#Features
 Create and manage Patients, Doctors, and Appointments
 Establish relationships between entities:
 Doctor  can have many Patients.
